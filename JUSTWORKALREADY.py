@@ -1,1 +1,1 @@
-print ("come on fuck head....WILL YOU WORK!!!")
+print ("come on lovely head....WILL YOU WORK!!!")
